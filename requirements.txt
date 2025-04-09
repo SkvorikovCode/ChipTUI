@@ -1,0 +1,4 @@
+textual>=0.40.0
+requests>=2.31.0
+gitpython>=3.1.40
+pyinstaller>=6.3.0 
